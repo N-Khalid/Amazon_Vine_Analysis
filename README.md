@@ -9,13 +9,17 @@ The purpose is uncover if there is a bias for Vine-positive reivews in the datas
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions:
 
-![Vine Review Analysis](https://user-images.githubusercontent.com/103234661/193837257-5c1e929e-e6c9-460d-b58e-167571626ed6.png)
+![Vine Review Analysis 1](https://user-images.githubusercontent.com/103234661/193837652-e9903945-6870-42a4-80e7-d85cf70b098b.png)
+
+![Vine Review Analysis 2](https://user-images.githubusercontent.com/103234661/193837660-9528096e-6bd0-4c22-ac2a-1274ef751a80.png)
 
 
-How many Vine reviews and non-Vine reviews were there?
-How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+**How many Vine reviews and non-Vine reviews were there?**
 
+
+**How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?**
+
+**What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?**
 
 
 
