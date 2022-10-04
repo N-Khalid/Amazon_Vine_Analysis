@@ -7,7 +7,7 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 
 The purpose is uncover if there is a bias for Vine-positive reivews in the dataset
 
-## Results: Using bulleted lists and images of DataFrames as support, address the following questions:
+## Results:
 
 ![Vine Review Analysis 1](https://user-images.githubusercontent.com/103234661/193838208-22d299fc-40c3-4374-a9ed-9c1e6b54ed6e.png)
 
@@ -26,7 +26,7 @@ There were 219 Vine reviews and 189,185 non-Vine reviews
 
 33.79% Vine reviews were 5 stars and 52.14% were 5 star non-Vine reviews
 
-## Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+## Summary:
 
 There is likely not a positivity bias in the reviews for the Vine program. We determined this because of the volume of 5 star non-Vine reviews far outweighed the 5 star Vine reviews. With a 52.14% 5 star review total versus 33.79%, the non-Vine reviews from users are enjoying using the program. The sheer number of total reviews for the non-Vine reviews allow any possible outliers to be neglible. 
 
